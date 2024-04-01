@@ -1,3 +1,7 @@
 name = "website-map-be"
 main = "src/index.ts"
 compatibility_date = "2024-03-20"
+
+kv_namespaces = [
+  { binding = "WEBSITE_MAP_NOTION", id = "b607c6d0aab34aba9066f373c1c46753" },
+]
